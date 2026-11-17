@@ -107,7 +107,7 @@ const faq = [
   ['The Hijri date is a day off.',
    'Moon sighting differs by country. Adjust it in Settings → Hijri Date by a day or two either way.'],
   ['Does the app collect my data?',
-   'No. There are no accounts, analytics or tracking. Your location is only used to work out prayer times, the Qibla and nearby mosques. See the privacy policy for details.'],
+   'No. There are no accounts, ad networks, analytics or tracking. Your location is only used to work out prayer times, the Qibla and nearby mosques. See the privacy policy for details.'],
   ['I supported the app and want a refund.',
    'Support payments are handled by Apple. You can request a refund at reportaproblem.apple.com.'],
 ];
